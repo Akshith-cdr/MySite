@@ -9,7 +9,7 @@ Always exploring new hobbies and staying curious.
 
 ---
 
-##Find Me Online
+Find Me Online
 
 - **Instagram**: [@_akshith.v_](https://instagram.com/_akshith.v_)  
 - **LinkedIn**: [Akshith Veerisetty](https://www.linkedin.com/in/akshith-veerisetty)  
@@ -17,7 +17,7 @@ Always exploring new hobbies and staying curious.
 
 ---
 
-##Random Facts About Me
+Random Facts About Me
 
 -  I'm a **night owl**.  
 -  **Podcasts** are my go-to for relaxation.  
@@ -26,7 +26,7 @@ Always exploring new hobbies and staying curious.
 
 ---
 
-##Contact Me
+Contact Me
 
 Feel free to reach out!  
  **Email**: [veerisettyakshith@gmail.com](mailto:veerisettyakshith@gmail.com)  
