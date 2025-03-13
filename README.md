@@ -34,4 +34,4 @@ Feel free to reach out!
 
 ---
 
-### Thanks for visiting!
+<p align="center">Thanks for visiting!</p>
